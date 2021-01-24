@@ -62,7 +62,7 @@
   }
 
   #showcase {
-    padding: 3rem;
+    padding: 1rem;
   }
 
   .btn {
@@ -71,9 +71,5 @@
 
   .l-heading {
     font-size: 2rem;
-  }
-
-  #article .meta {
-    padding: 1rem;
   }
 }
