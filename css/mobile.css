@@ -60,4 +60,20 @@
   .l-heading {
     font-size: 2rem;
   }
+
+  #showcase {
+    padding: 3rem;
+  }
+
+  .btn {
+    padding: 0.25rem 1rem;
+  }
+
+  .l-heading {
+    font-size: 2rem;
+  }
+
+  #article .meta {
+    padding: 1rem;
+  }
 }
