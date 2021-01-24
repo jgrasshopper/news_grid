@@ -30,7 +30,7 @@
 }
 
 /* == Media Queris | Smartphone == */
-@media (max-width: 600px) {
+@media(max-width: 600px) {
   /* Stack Grid Items */
   #showcase .showcase-container,
   #home-articles .articles-container,
@@ -70,9 +70,9 @@
   }
 }
 
-/* == Media Queris | Smartphone (Landscape) == */
-@media (max-height: 750px) {
+/* == Media Queries | Smartphone (Landscape) == */
+@media(max-height: 750px) {
   #showcase .showcase-container {
-    height: 100vh;
+    height: 60vw;
   }
 }
