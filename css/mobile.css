@@ -57,10 +57,6 @@
     grid-row: 1;
   }
 
-  .l-heading {
-    font-size: 2rem;
-  }
-
   #showcase {
     padding: 1rem;
   }
@@ -71,8 +67,8 @@
 }
 
 /* == Media Queries | Smartphone (Landscape) == */
-@media(max-height: 750px) {
+@media(max-height: 500px) {
   #showcase .showcase-container {
-    height: 60vw;
+    height: 70vh;
   }
 }
