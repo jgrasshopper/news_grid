@@ -71,4 +71,8 @@
   #showcase .showcase-container {
     height: 100vh;
   }
+
+  .l-heading {
+    font-size: 1.5rem;
+  }
 }
