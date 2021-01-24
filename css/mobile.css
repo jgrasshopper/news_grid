@@ -72,7 +72,7 @@
 
 /* == Media Queris | Smartphone (Landscape) == */
 @media (max-height: 750px) {
-  #showcase {
-    padding: 1rem;
+  #showcase .showcase-container {
+    height: 100vh;
   }
 }
