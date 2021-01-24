@@ -69,6 +69,6 @@
 /* == Media Queries | Smartphone (Landscape) == */
 @media(max-height: 500px) {
   #showcase .showcase-container {
-    height: 70vh;
+    height: 100vh;
   }
 }
